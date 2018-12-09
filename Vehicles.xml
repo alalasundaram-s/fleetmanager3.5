@@ -1,0 +1,12 @@
+<xml>
+          <vehicles>
+              <item>
+                  <vehicleid>112233</vehicleid>
+                  <vehiclelabel>Vehicle 1</vehiclelabel>
+              </item>
+              <item>
+                  <vehicleid>445566</vehicleid>
+                  <vehiclelabel>Vehicle 2</vehiclelabel>
+              </item>
+          </vehicles>
+      </xml>
