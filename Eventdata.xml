@@ -1,0 +1,48 @@
+      <xml>
+          <lastevent>
+              <eventlatitude>0.00000</eventlatitude>
+              <eventlongitude>0.00000</eventlongitude>
+              <eventsignalstrength>5</eventsignalstrength>
+              <eventtime>2014-05-10 07:51:10</eventtime>
+              <eventaddress>12345 Example St, Temecula, California, 92590</eventaddress>
+              <eventmileage>123.123456789</eventmileage>
+              <eventheading>N</eventheading>
+              <landmark>
+                  <landmarkid>123456</landmarkid>
+                  <landmarklabel>Example Label</landmarklabel>
+                  <landmarkaddress>12345 Example St, Temecula, CA 92590, USA</landmarkaddress>
+                  <landmarklatitude>0.00000</landmarklatitude>
+                  <landmarklongitude>0.00000</landmarklongitude>
+                  <landmarkradius>400</landmarkradius>
+                  <landmarkgroup>12345</landmarkgroup>
+                  <landmarknotes/>
+                  <landmarkshape>circle</landmarkshape>
+                  <landmarkcoordinates>
+                      <item>
+                          <latitude>41.227526299</latitude>
+                          <longitude>-113.806411531</longitude>
+                      </item>
+                      <item>
+                          <latitude>41.227526299</latitude>
+                          <longitude>-113.786361907</longitude>
+                      </item>
+                      <item>
+                          <latitude>41.2124452709</latitude>
+                          <longitude>-113.786361907</longitude>
+                      </item>
+                      <item>
+                          <latitude>41.2124452709</latitude>
+                          <longitude>-113.806411531</longitude>
+                      </item>
+                  </landmarkcoordinates>
+              </landmark>
+              <driverid>0</driverid>
+              <eventspeed/>
+              <eventpostedspeed>0</eventpostedspeed>
+              <event>Update</event>
+              <eventtemperature/>
+              <eventbattery/>
+              <eventbatt/>
+          </lastevent>
+      </xml>
+      
